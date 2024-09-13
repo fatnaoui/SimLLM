@@ -4,8 +4,8 @@ The Self-Attention Mechanism is a pivotal innovation in artificial intelligence,
 
 We are offering comprehensive guides to deepen your understanding:
 
-    [First Guide](https://github.com/fatnaoui/SimLLM/blob/main/Self-Attention/Coding_Attention_Mecanism_Part_1.pdf)
-    [Second Guide](https://github.com/fatnaoui/SimLLM/blob/main/Self-Attention/Coding_Attention_Mecanism_Part_2.pdf)
+- **[First Guide](https://github.com/fatnaoui/SimLLM/blob/main/Self-Attention/Coding_Attention_Mecanism_Part_1.pdf)**
+- **[Second Guide](https://github.com/fatnaoui/SimLLM/blob/main/Self-Attention/Coding_Attention_Mecanism_Part_2.pdf)**
 
 These guides are designed to provide you with a thorough understanding of Self-Attention, from theory to application, and illustrate why it has become a game-changer in the field of AI.
 
