@@ -12,5 +12,6 @@ These guides are designed to provide you with a thorough understanding of Self-A
 To grasp the importance and the changes that the self-attention mechanism brings, let’s explore how this concept applies in real world:
 
 - First, a comparison of the performance of a simple document classifier while applying self-attention. The attached code **[Document Classifier](https://github.com/fatnaoui/SimLLM/tree/main/Self-Attention/DocumentClassifier)**
+
 ![Self Attention Comparison](https://github.com/fatnaoui/SimLLM/blob/main/images/Self_Attention.png)
 
