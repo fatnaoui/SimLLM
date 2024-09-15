@@ -1,3 +1,3 @@
 # Codes
 ----------
-- [Working With Tensors](https://github.com/fatnaoui/SimLLM/blob/main/Codes/WorkingWithTensors.ipynb)
+This directory contains code explanations for various concepts you may encounter while building your own LLM.
